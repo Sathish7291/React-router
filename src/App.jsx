@@ -8,7 +8,7 @@ import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 function App() {
   const data = [
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html.jpg",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2024/02/full_stack_developer_roadmap_in_2024.webp",
       title: "Best Full-Stack Development Project Ideas in 2024",
       author: "Isha Sharma",
       date: "23 Jul 2024",
@@ -29,7 +29,7 @@ function App() {
       content: "Full Stack Development",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/html-css-collage-concept-with-person.jpg",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2024/02/Project-Ideas-for-Frontend-Development.webp",
       title: "Top 10 Full-Stack Developer Frameworks in 2024",
       author:"Isha Sharma",
       date: "25 Apr 2024",
@@ -50,14 +50,14 @@ function App() {
       content: "Data Science",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/06/5.-data-science-2048x1072.png",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2023/08/feature-image-Best-Data-Science-Online-Courses-for-Beginners.webp",
       title: "Can A Commerce Student Do Data Science?",
      author:"Saakshi Priyadarshini",
       date: "16 Apr 2024",
       content: "Data Science",
     },
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2023/09/Feature-image-Top-Product-Based-Companies-for-Data-Scientists.webp",
       title:"Roles and Responsibilities of a Data Scientist",
       author:"Jaishree Tomar",
       date: "16 Apr 2024",
@@ -72,7 +72,7 @@ function App() {
     },
     
     {
-      img: "https://www.guvi.in/blog/wp-content/uploads/2022/12/Yellow-Blue-Illustration-Business-Blog-Banner-2048x1152.png",
+      img: "https://www.guvi.in/blog/wp-content/uploads/2021/03/The-Ultimate-%E2%80%A8Cybersecurity-Roadmap-for-Beginners.webp",
       title: "Cybersecurity Vs Ethical Hacking: Top 10 Differences",
       author:"Tushar Vinocha",
       date: "16 Apr 2024",
